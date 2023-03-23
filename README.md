@@ -1,4 +1,4 @@
-### Olá, Mundo! Eu sou Humberto Moura 👋
+### Olá, Mundo! Eu sou Humberto Moura <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
