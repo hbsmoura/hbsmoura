@@ -11,16 +11,16 @@ Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
 -----
 
-<a href="">
+<a href="https://github.com/hbsmoura?tab=repositories">
   <img height="180" alt="Estatísticas do perfil no github" src="https://github-readme-stats.vercel.app/api?username=hbsmoura&show_icons=true&theme=radical&locale=pt-br">
 </a>
-<a href="">
+<a href="#techs">
   <img height="180" alt="Estatísticas do perfil no github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbsmoura&show_icons=true&theme=radical&layout=compact&hide=scss,less&locale=pt-br">
 </a>
 
 -----
  
-Algumas tecnologias com as quais já tive contato:
+<a name="techs">Algumas tecnologias com as quais já tive contato:</a>
 
 > [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven)](https://skillicons.dev)
 
