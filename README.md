@@ -22,12 +22,12 @@ Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
  
 Algumas tecnologias com as quais já tive contato:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=aws,heroku,git,github)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=aws,heroku,git,github)](https://skillicons.dev)
