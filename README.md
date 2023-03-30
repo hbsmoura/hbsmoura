@@ -2,7 +2,7 @@
 
 Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
-- 🔭 Atualmente eu trabalho (estudo) com aplicações Back-end
+- 🔭 Trabalho atualmente com aplicações Back-end
 - 🌱 Tenho focado meus estudos na linguagem JAVA e na construção de RESTful APIs com Spring Framework
 - 🤔 Pretendo aprimorar meus conhecimentos no Front-end (tornar-me Fullstack Dev)
 - 📫 Quer falar comigo? É só chamar no e-mail: humbertobsmoura@gmail.com
