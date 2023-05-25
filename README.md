@@ -26,7 +26,9 @@ Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
 > [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
-> [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
+
+> [![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
 
 > [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode,postman)](https://skillicons.dev)
 
