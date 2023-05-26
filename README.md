@@ -11,6 +11,7 @@ Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
 -----
 
+<!--
 <a href="https://github.com/hbsmoura?tab=repositories">
   <img height="180" alt="Estatísticas do perfil no github" src="https://github-readme-stats.vercel.app/api?username=hbsmoura&show_icons=true&theme=radical&locale=pt-br">
 </a>
@@ -19,6 +20,7 @@ Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 </a>
 
 -----
+-->
  
 <a name="techs">Algumas tecnologias com as quais já tive contato:</a>
 
