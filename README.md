@@ -2,9 +2,9 @@
 
 Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
-- 🔭 Trabalho atualmente com aplicações Back-end
-- 🌱 Tenho focado meus estudos na linguagem JAVA e na construção de RESTful APIs com Spring Framework
-- 🤔 Pretendo aprimorar meus conhecimentos no Front-end (tornar-me Fullstack Dev)
+- 🔭 Sou programador fullstack
+- 🌱 Tenho focado na construção de RESTful APIs com Spring Framework e no consumo com Angular
+- 🤔 Também desenvolvo plugins para Wordpress em PHP
 - 📫 Quer falar comigo? É só chamar no e-mail: humbertobsmoura@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Nas horas vagas curto ouvir música, *capivarar* no xadrez, falar mau das séries que assisto e conhecer novas culturas
@@ -17,7 +17,9 @@ Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
 > [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb)](https://skillicons.dev)
 
-> [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,angular)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
+
+> [![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
 
 > [![My Skills](https://skillicons.dev/icons?i=aws,heroku,git,github,docker)](https://skillicons.dev)
 
