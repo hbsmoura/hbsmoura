@@ -3,7 +3,7 @@
 Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
 - 🔭 Sou programador fullstack
-- 🌱 Tenho focado na construção de RESTful APIs com Spring Framework e no consumo com Angular
+- 🌱 Tenho focado na construção de RESTful APIs com Spring Framework e no consumo com React
 - 🤔 Também desenvolvo plugins para Wordpress em PHP
 - 📫 Quer falar comigo? É só chamar no e-mail: humbertobsmoura@gmail.com
 - 😄 Pronomes: Ele/Dele
@@ -19,7 +19,7 @@ Esse é o meu perfil no github, e aqui vão algumas informações sobre mim:
 
 > [![My Skills](https://skillicons.dev/icons?i=html,css,php,wordpress)](https://skillicons.dev)
 
-> [![My Skills](https://skillicons.dev/icons?i=js,ts,angular)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular)](https://skillicons.dev)
 
 > [![My Skills](https://skillicons.dev/icons?i=aws,heroku,git,github,docker)](https://skillicons.dev)
 
